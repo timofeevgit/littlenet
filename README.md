@@ -1,1 +1,1 @@
-littlenet vpn
+Littlenet VPN
